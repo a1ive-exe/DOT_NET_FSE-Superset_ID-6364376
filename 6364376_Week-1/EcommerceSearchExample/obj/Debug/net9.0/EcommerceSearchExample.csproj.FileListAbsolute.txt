@@ -1,0 +1,28 @@
+C:\Users\KIIT\Downloads\CSharp_DesignPatterns_Exercises (1)\CSharp_DesignPatterns_Exercises\EcommerceSearchExample\bin\Debug\net9.0\EcommerceSearchExample.exe
+C:\Users\KIIT\Downloads\CSharp_DesignPatterns_Exercises (1)\CSharp_DesignPatterns_Exercises\EcommerceSearchExample\bin\Debug\net9.0\EcommerceSearchExample.deps.json
+C:\Users\KIIT\Downloads\CSharp_DesignPatterns_Exercises (1)\CSharp_DesignPatterns_Exercises\EcommerceSearchExample\bin\Debug\net9.0\EcommerceSearchExample.runtimeconfig.json
+C:\Users\KIIT\Downloads\CSharp_DesignPatterns_Exercises (1)\CSharp_DesignPatterns_Exercises\EcommerceSearchExample\bin\Debug\net9.0\EcommerceSearchExample.dll
+C:\Users\KIIT\Downloads\CSharp_DesignPatterns_Exercises (1)\CSharp_DesignPatterns_Exercises\EcommerceSearchExample\bin\Debug\net9.0\EcommerceSearchExample.pdb
+C:\Users\KIIT\Downloads\CSharp_DesignPatterns_Exercises (1)\CSharp_DesignPatterns_Exercises\EcommerceSearchExample\obj\Debug\net9.0\EcommerceSearchExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Downloads\CSharp_DesignPatterns_Exercises (1)\CSharp_DesignPatterns_Exercises\EcommerceSearchExample\obj\Debug\net9.0\EcommerceSearchExample.AssemblyInfoInputs.cache
+C:\Users\KIIT\Downloads\CSharp_DesignPatterns_Exercises (1)\CSharp_DesignPatterns_Exercises\EcommerceSearchExample\obj\Debug\net9.0\EcommerceSearchExample.AssemblyInfo.cs
+C:\Users\KIIT\Downloads\CSharp_DesignPatterns_Exercises (1)\CSharp_DesignPatterns_Exercises\EcommerceSearchExample\obj\Debug\net9.0\EcommerceSearchExample.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Downloads\CSharp_DesignPatterns_Exercises (1)\CSharp_DesignPatterns_Exercises\EcommerceSearchExample\obj\Debug\net9.0\EcommerceSearchExample.dll
+C:\Users\KIIT\Downloads\CSharp_DesignPatterns_Exercises (1)\CSharp_DesignPatterns_Exercises\EcommerceSearchExample\obj\Debug\net9.0\refint\EcommerceSearchExample.dll
+C:\Users\KIIT\Downloads\CSharp_DesignPatterns_Exercises (1)\CSharp_DesignPatterns_Exercises\EcommerceSearchExample\obj\Debug\net9.0\EcommerceSearchExample.pdb
+C:\Users\KIIT\Downloads\CSharp_DesignPatterns_Exercises (1)\CSharp_DesignPatterns_Exercises\EcommerceSearchExample\obj\Debug\net9.0\EcommerceSearchExample.genruntimeconfig.cache
+C:\Users\KIIT\Downloads\CSharp_DesignPatterns_Exercises (1)\CSharp_DesignPatterns_Exercises\EcommerceSearchExample\obj\Debug\net9.0\ref\EcommerceSearchExample.dll
+D:\COGNIZANT\6364376_Week-1\EcommerceSearchExample\bin\Debug\net9.0\EcommerceSearchExample.exe
+D:\COGNIZANT\6364376_Week-1\EcommerceSearchExample\bin\Debug\net9.0\EcommerceSearchExample.deps.json
+D:\COGNIZANT\6364376_Week-1\EcommerceSearchExample\bin\Debug\net9.0\EcommerceSearchExample.runtimeconfig.json
+D:\COGNIZANT\6364376_Week-1\EcommerceSearchExample\bin\Debug\net9.0\EcommerceSearchExample.dll
+D:\COGNIZANT\6364376_Week-1\EcommerceSearchExample\bin\Debug\net9.0\EcommerceSearchExample.pdb
+D:\COGNIZANT\6364376_Week-1\EcommerceSearchExample\obj\Debug\net9.0\EcommerceSearchExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\COGNIZANT\6364376_Week-1\EcommerceSearchExample\obj\Debug\net9.0\EcommerceSearchExample.AssemblyInfoInputs.cache
+D:\COGNIZANT\6364376_Week-1\EcommerceSearchExample\obj\Debug\net9.0\EcommerceSearchExample.AssemblyInfo.cs
+D:\COGNIZANT\6364376_Week-1\EcommerceSearchExample\obj\Debug\net9.0\EcommerceSearchExample.csproj.CoreCompileInputs.cache
+D:\COGNIZANT\6364376_Week-1\EcommerceSearchExample\obj\Debug\net9.0\EcommerceSearchExample.dll
+D:\COGNIZANT\6364376_Week-1\EcommerceSearchExample\obj\Debug\net9.0\refint\EcommerceSearchExample.dll
+D:\COGNIZANT\6364376_Week-1\EcommerceSearchExample\obj\Debug\net9.0\EcommerceSearchExample.pdb
+D:\COGNIZANT\6364376_Week-1\EcommerceSearchExample\obj\Debug\net9.0\EcommerceSearchExample.genruntimeconfig.cache
+D:\COGNIZANT\6364376_Week-1\EcommerceSearchExample\obj\Debug\net9.0\ref\EcommerceSearchExample.dll
